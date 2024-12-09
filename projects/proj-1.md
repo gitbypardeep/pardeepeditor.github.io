@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Real Estate '
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+The promotional reel for PR Estate highlights a seamless blend of creativity and storytelling, showcasing their projects with a professional and visually compelling narrative. The video captures the essence of the firm's real estate offerings through dynamic transitions, crisp visuals, and an engaging soundtrack. By emphasizing key features of the properties and delivering a polished, high-quality production, this reel demonstrates expertise in content creation, video editing, and audience engagement, tailored specifically to the real estate industry.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
